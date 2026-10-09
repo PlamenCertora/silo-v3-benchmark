@@ -1,0 +1,8 @@
+{
+  "arbitrum_one": {
+    "UniV3-ETH-USDC-0.3": "0x31C60c7913ee5940Ddf6B8CA0F2988c7A932aC19"
+  },
+  "optimism": {
+    "UniswapV3-WETH-USDC-0.05-optimism": "0x5B176280777494fb659a8110EEa80Ae7fd99F8fb"
+  }
+}
